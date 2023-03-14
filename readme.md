@@ -83,5 +83,7 @@ jingxiaoliao@hit.edu.cn
 Enjoy your coding!
 ## Reference
 [1] https://www.kaggle.com/c/carvana-image-masking-challenge
+
 [2] https://www.kaggle.com/competitions/data-science-bowl-2018/overview
+
 [3] https://engineering.case.edu/bearingdatacenter/welcome
